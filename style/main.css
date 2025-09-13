@@ -583,8 +583,9 @@ body {
 
   .nine p {
     font-size: 1.5rem;
-    font-weight: lighter;
+    font-weight: bold;
     color: #fff; /* белый текст */
     text-shadow: 2px 2px 4px rgba(0,0,0,0.7); /* мягкая темная тень */
   }
 }
+
